@@ -4,7 +4,7 @@ namespace GildedRose.Console
 {
     class Program
     {
-        IList<Item> Items;
+        static IList<Item> Items;
         static void Main(string[] args)
         {
             System.Console.WriteLine("OMGHAI!");
@@ -57,7 +57,7 @@ namespace GildedRose.Console
 
         }
 
-        public void UpdateQuality()
+        public static void UpdateQuality()
         {
             for (var i = 0; i < Items.Count; i++)
             {
