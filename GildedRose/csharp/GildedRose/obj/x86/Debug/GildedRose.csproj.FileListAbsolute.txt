@@ -1,0 +1,6 @@
+C:\Users\Kjersti\Documents\GitHub\Refactoring-Katas\GildedRose\csharp\GildedRose\bin\Debug\GildedRose.exe
+C:\Users\Kjersti\Documents\GitHub\Refactoring-Katas\GildedRose\csharp\GildedRose\bin\Debug\GildedRose.pdb
+C:\Users\Kjersti\Documents\GitHub\Refactoring-Katas\GildedRose\csharp\GildedRose\bin\Debug\nunit.framework.dll
+C:\Users\Kjersti\Documents\GitHub\Refactoring-Katas\GildedRose\csharp\GildedRose\bin\Debug\nunit.framework.xml
+C:\Users\Kjersti\Documents\GitHub\Refactoring-Katas\GildedRose\csharp\GildedRose\obj\x86\Debug\GildedRose.exe
+C:\Users\Kjersti\Documents\GitHub\Refactoring-Katas\GildedRose\csharp\GildedRose\obj\x86\Debug\GildedRose.pdb
